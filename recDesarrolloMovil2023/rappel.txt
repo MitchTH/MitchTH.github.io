@@ -1,0 +1,3 @@
+rappel
+
+rappel es una aplicacion movil sencilla que consiste en recordarte los pendientes importantes que tienes en el dia al igual que ordenarlos en tu calendario de tareas, cuenta con un menu con cuatro taps, el primero es la lista de tareas pendientes que tienes para el dia en el que estas ordenados en orden numerico segun la hora del recordatorio, el segundo tap es para agregar nuevos recordatorios,consiste en agregar el asunto, la hora, el dia y el sonido que prefieres para el recordatorio, el tercer tap es el calendario de tareas en el que puedes visualizar todos tus recordatorios pendientes y realizados de todo el mes, el cuarto tap es un perfil de tu cuenta y opciones.
